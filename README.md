@@ -1,4 +1,4 @@
-![MDE talk](https://adam-hurwitz.firebaseapp.com/GitHubProfile/MDE-talk-black.jpg)
+![MDE talk](https://adam-hurwitz.firebaseapp.com/GitHubProfile/github-profile-banner.png)
 
 ### Hi, I'm Adam. 👋🏻 
 
