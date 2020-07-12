@@ -2,7 +2,7 @@
 
 ### Hi, I'm Adam. 👋🏻 
 
-I've reached over _[750K people][1]_ via open-source code, including conference talks, presentations, and writing. Learn more about my work _[here][2]_ and follow me on Medium at _[@AdamHurwitz][3]_. 
+I've reached over _[750K people][1]_ via open-source Android code, including conference talks, presentations, and writing. Learn more about my work _[here][2]_ and follow me on Medium at _[@AdamHurwitz][3]_. 
 
 I believe tech ought to empower people.
 
