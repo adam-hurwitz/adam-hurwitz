@@ -9,8 +9,8 @@ Tech ought to empower people.
 - 💱 Personal finance
 - 💪🏻 Wellness
 - 🧠 Productivity
-- 🎥 Media and access to information
-- 🌴 Sustainability
+- 🎥 Access to information
+- 🤝🏻 Community building
 
 
 [1]: https://docs.google.com/spreadsheets/d/1PNBRZZGnBFeDqw9gxgOiXXqQdBnTyapol1fK2VlLvvg/edit?rm=minimal#gid=0
