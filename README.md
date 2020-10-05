@@ -2,7 +2,7 @@
 
 ### Hi, I'm Adam. 👋🏻 
 
-I've reached over _[950K developers][1]_ via StackOverflow, writing, tech talks, and open-source code. Learn more about my work _[here][2]_ and follow me on Medium at _[@AdamHurwitz][3]_. 
+I've reached over _[1 million developers][1]_ via StackOverflow, writing, tech talks, and open-source code. Learn more about my work _[here][2]_ and follow me on Medium at _[@AdamHurwitz][3]_. 
 
 Tech ought to empower people.
 
