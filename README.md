@@ -2,7 +2,7 @@
 
 ### Hi, I'm Adam, an open sourcer. 👋🏻
 
-I have enjoyed reaching over _[1.6 million developers][1]_ through StackOverflow, building an open-source _[Android crypto news app][3]_, writing, and tech talks. I have created a _[200+ page crypto guide][4]_. 
+I have enjoyed reaching over _[1.6 million developers][1]_ through StackOverflow, building an open-source _[Android crypto news app][3]_, writing, and tech talks. Explore the _[200+ page crypto guide][4]_ I've built. 
 
 Find me on Twitter sharing sometimes useful and often non-serious thoughts at _[@adamshurwitz][5]_. Learn more about my work on _[LinkedIn][2]_.
 
