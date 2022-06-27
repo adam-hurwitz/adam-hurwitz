@@ -4,7 +4,7 @@
 
 I have enjoyed reaching over _[1.6 million developers][1]_ through StackOverflow, building an open-source _[Android crypto news app][3]_, writing, and tech talks. I have created a _[200+ page crypto guide][4]_. 
 
-Find me on Twitter sharing sometimes useful and often non-serious thoughts at _[@adamshurwitz][5]_. Enjoying the small things is important, coffee, tea, cacao, nature, and podcasts. Learn more about my work on _[LinkedIn][2]_.
+Find me on Twitter sharing sometimes useful and often non-serious thoughts at _[@adamshurwitz][5]_. Learn more about my work on _[LinkedIn][2]_.
 
 [1]: https://docs.google.com/spreadsheets/d/1PNBRZZGnBFeDqw9gxgOiXXqQdBnTyapol1fK2VlLvvg/edit?rm=minimal#gid=0
 [2]: https://www.linkedin.com/in/adamshurwitz/
